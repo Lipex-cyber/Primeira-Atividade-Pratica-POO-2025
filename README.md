@@ -26,4 +26,4 @@ Crie uma classe que simule o acesso a um sistema solicitando login e senha. Comp
 
 8. Gerador de Tabuada
 
-Desenvolva uma classe que peça ao usuário um número e apresente a tabuada deste número de 1 a 10, utilizando um loop para gerar os resultados.****
+Desenvolva uma classe que peça ao usuário um número e apresente a tabuada deste número de 1 a 10, utilizando um loop para gerar os resultados.
